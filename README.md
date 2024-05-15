@@ -1,4 +1,4 @@
-# FiveM-bypass-NetworkIsInSpectatorMode-using-C-
+# FiveM-bypass-NetworkIsInSpectatorMode
 this is a way you can bypass server anticheats that checks NetworkIsInSpectatorMode.
 
 example:
