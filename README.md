@@ -19,6 +19,7 @@ __int16 __fastcall sub_1124228(__int64 a1, __int16 a2)
 {
 //a1 = class
 //a2 = result | true, false true = 1 false = 0/false
+//a1 + 1320 = qwrod value is int
   __int16 result; // ax
 
   result = 0;
