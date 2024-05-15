@@ -3,7 +3,7 @@ this is a way you can bypass server anticheats that checks NetworkIsInSpectatorM
 
 example:
 ```
-if (NetworkIsInSpectatorMode() == 1) then
+if NetworkIsInSpectatorMode() then
 TriggerServerEvent('ban', "anti Spectator")
 end
 ```
